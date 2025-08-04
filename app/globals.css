@@ -85,6 +85,6 @@
     @apply border-border;
   }
   body {
-    @apply bg-background text-foreground;
+    @apply bg-zinc-950 dark:bg-white;
   }
 }
