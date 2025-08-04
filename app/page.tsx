@@ -221,6 +221,17 @@ export default function PasswordGenerator() {
           <p>Always use unique passwords for different accounts</p>
         </div>
       </div>
+      <div className="mt-8 text-center text-sm text-gray-600">
+        Made with {"❤︎"} by{" "}
+        <a
+          href="https://suresh.app"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-indigo-600 hover:underline"
+        >
+          Suresh Kaleyannan
+        </a>
+      </div>
     </div>
   )
 }
